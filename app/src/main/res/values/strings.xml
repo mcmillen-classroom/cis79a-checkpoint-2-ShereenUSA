@@ -1,17 +1,19 @@
 <resources>
     <string name="app_name">QuizApp</string>
 
-    <string name="question_text">Placeholder for first question...</string>
+    <string name="question_text">Placeholder for Questions ... </string>
 
     <string name="true_button">True</string>
     <string name="false_button">False</string>
 
-    <string name="question_1">Is God eternal (timeless)?</string>
-    <string name="question_2">Did God create our universe from outside our universe?</string>
-    <string name="question_3">Is God bigger than what we can imagine?</string>
-    <string name="question_4">Is God uncaring and unforgiving?</string>
-    <string name="question_5">Is God an unjust God?</string>
-    <string name="question_6">Is God holy, patient, and loving?</string>
-    <string name="question_7">Does God give us a solution for our inherent sinful nature?</string>
+    <string name="next_button">Next</string>
+
+    <string name="question_1">1.  Is God eternal (beyond space, time, and matter)?</string>
+    <string name="question_2">2.  Did God create our universe from outside our universe?</string>
+    <string name="question_3">3.  Is God more than what we can imagine?</string>
+    <string name="question_4">4.  Is God uncaring and unforgiving?</string>
+    <string name="question_5">5.  Is God an unjust God?</string>
+    <string name="question_6">6.  Is God holy, patient, and loving?</string>
+    <string name="question_7">7.  Does God give us a solution for our inherent sinful nature?</string>
 
 </resources>
